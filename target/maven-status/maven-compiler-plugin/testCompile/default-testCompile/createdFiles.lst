@@ -1,0 +1,4 @@
+com\example\stepdefenitions\FeaturesStepDefinition.class
+com\example\test\TestRunner.class
+com\example\stepdefenitions\BaseTest.class
+com\example\stepdefenitions\HomeStepDefinition.class
